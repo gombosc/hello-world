@@ -13,3 +13,5 @@ Day three, think I've got the hang of this (didn't got that much time to look in
 Hope it works... /n \n 
 
 Wow! It finally works...
+
+Created a new branch, merging immediately
