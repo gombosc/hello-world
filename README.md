@@ -9,5 +9,7 @@ This is me testing the way github works, branching, merging, pulling and so on
 Day 2
 Okay, I'm frustrated now
 
-Day three, think I've got the hang of this (didn't got that much time to look into it that's why it takes so much)
-Hope it works...
+Day three, think I've got the hang of this (didn't got that much time to look into it that's why it takes so much) /n \n
+Hope it works... /n \n 
+
+Wow! It finally works...
